@@ -1,0 +1,4 @@
+pkg/
+src/
+azure-cli-community/
+*.zst
